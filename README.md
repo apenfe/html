@@ -1,3 +1,2 @@
-# SailDrone_Machine_Learning
+# Curso HTML
 
-[![Mira el video](SailDrone/otros/miniatura.png)](https://youtu.be/4PGkNWABzNk)

@@ -8,7 +8,7 @@
 
     <body>
         <h1>Formularios</h1>
-        <form method="POST" action="enlaces.html" enctype="application/x-www-form-urlencoded">
+        <form method="GET"  action="enlaces.html" enctype="">
 
             <p>
                 <label for="nombre">Nombre:</label>
@@ -147,7 +147,7 @@
 
         <h1>Validacion</h1>
         <form>
-            <input type="text" required minlength="8" maxlength="25"/>
+            <input type="text" required minlength="8" maxlength="25" pattern="[A-Za-z ]+"/>
             <input type="number" required min="1" max="10"/>
             <input type="submit" value="enviar"/>
         </form>
